@@ -10,3 +10,4 @@ $ ./run.sh start
 * Access http://localhost:8081/api/products
 * Access http://localhost:8082/api/promotions
 * Go to Jaeger UI http://localhost:16686, select the service and Find Traces.2024-06-12 - Commit 0
+2024-06-12 - Commit 1
